@@ -1,0 +1,14 @@
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\bin\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.exe
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\bin\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.deps.json
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\bin\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.runtimeconfig.json
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\bin\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.runtimeconfig.dev.json
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\bin\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.dll
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\bin\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.pdb
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\obj\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.csproj.AssemblyReference.cache
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\obj\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\obj\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.AssemblyInfoInputs.cache
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\obj\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.AssemblyInfo.cs
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\obj\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.csproj.CoreCompileInputs.cache
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\obj\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.dll
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\obj\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.pdb
+C:\Users\CFlynn3\source\repos\Week4_UsedCarLab_Redo\Week4_UsedCarLab_Redo\obj\Debug\netcoreapp3.1\Week4_UsedCarLab_Redo.genruntimeconfig.cache
